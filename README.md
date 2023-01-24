@@ -2,7 +2,7 @@
 
 ## Coding Quiz description
 
-`My project hosts the source code for my JavaScript Coding Quiz Assignment.`
+My project hosts the source code for my JavaScript Coding Quiz Assignment.
 
 ### The following imagines demonstrates the application functionality:
 
@@ -28,7 +28,7 @@ In this JavaScript quiz once you click the start button you will be presented wi
 
 ## Links
 
-[Deployed link: Try it out!](https://github.com/lentiodev/#) </div>
+[Deployed link: Try it out!](https://lentiodev.github.io/Coding-Quiz/) </div>
 
 [GitHub link](https://github.com/lentiodev/Coding-Quiz) </div>
 
